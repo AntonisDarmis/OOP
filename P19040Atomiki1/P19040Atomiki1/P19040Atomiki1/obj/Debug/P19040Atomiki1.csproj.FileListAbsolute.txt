@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\P19040Atomiki1\P19040Atomiki1\bin\Debug\P19040Atomiki1.exe.config
+C:\Users\user\source\repos\P19040Atomiki1\P19040Atomiki1\bin\Debug\P19040Atomiki1.exe
+C:\Users\user\source\repos\P19040Atomiki1\P19040Atomiki1\bin\Debug\P19040Atomiki1.pdb
+C:\Users\user\source\repos\P19040Atomiki1\P19040Atomiki1\obj\Debug\P19040Atomiki1.csprojAssemblyReference.cache
+C:\Users\user\source\repos\P19040Atomiki1\P19040Atomiki1\obj\Debug\P19040Atomiki1.AccountCreation.resources
+C:\Users\user\source\repos\P19040Atomiki1\P19040Atomiki1\obj\Debug\P19040Atomiki1.Form1.resources
+C:\Users\user\source\repos\P19040Atomiki1\P19040Atomiki1\obj\Debug\P19040Atomiki1.Properties.Resources.resources
+C:\Users\user\source\repos\P19040Atomiki1\P19040Atomiki1\obj\Debug\P19040Atomiki1.csproj.GenerateResource.cache
+C:\Users\user\source\repos\P19040Atomiki1\P19040Atomiki1\obj\Debug\P19040Atomiki1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\P19040Atomiki1\P19040Atomiki1\obj\Debug\P19040Atomiki1.exe
+C:\Users\user\source\repos\P19040Atomiki1\P19040Atomiki1\obj\Debug\P19040Atomiki1.pdb
+C:\Users\user\source\repos\P19040Atomiki1\P19040Atomiki1\obj\Debug\P19040Atomiki1.MainMenu.resources
+C:\Users\user\source\repos\P19040Atomiki1\P19040Atomiki1\obj\Debug\P19040Atomiki1.HowToPlay.resources
+C:\Users\user\source\repos\P19040Atomiki1\P19040Atomiki1\obj\Debug\P19040Atomiki1.Game.resources
